@@ -1,5 +1,3 @@
-<img width="836" height="470" alt="image" src="https://github.com/user-attachments/assets/115ff481-1cdc-458e-886f-9f6e12939850" /
-My first repository
 
 # A Tunnel to Summer, the Exit of Goodbyes
 
